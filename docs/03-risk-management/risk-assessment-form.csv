@@ -1,0 +1,11 @@
+ID,Risk event,Probability,Impact,"Score (P x I)","Detection difficulty",When it may hit,Owner
+1,Video footage is not enough to cover all 12 weeks,5 / 5,5 / 5,25,3 / 5,W10-W13,Video Team
+2,Team loses momentum after the product is finished in W6,4 / 5,4 / 5,16,2 / 5,W7-W12,Group Leader
+3,"Students post items but nobody responds, so they leave",4 / 5,4 / 5,16,2 / 5,W7-W9,Product Owner
+4,Only one member can maintain the code,3 / 5,5 / 5,15,4 / 5,W7-W12,Group Leader
+5,"Sprint records are missing, velocity chart cannot be built",5 / 5,3 / 5,15,2 / 5,W12,Group Leader
+6,Final exam period overlaps with report and video deadlines,5 / 5,3 / 5,15,1 / 5,W13-W15,Group Leader
+7,"Members are in different countries, coordination is slow",4 / 5,3 / 5,12,2 / 5,All weeks,Group Leader
+8,External collaborator stops replying or never signed,3 / 5,4 / 5,12,3 / 5,W7-W11,External Liaison
+9,Users keep using WeChat groups instead of the platform,4 / 5,3 / 5,12,3 / 5,W8-W11,Requirements & Testing
+10,Some members still have not joined the Trello board,3 / 5,3 / 5,9,1 / 5,W7,Group Leader
